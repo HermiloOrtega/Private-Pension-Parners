@@ -1,9 +1,4 @@
 # **Private Pension Partners**  
-**Client Project for Epic Inspired**  
-**Version:** V1 – May 3, 2025  
-**Category:** Epic Inspired – Investment & Real Estate  
-
----
 
 ## 🧭 Overview  
 **Private Pension Partners (PPP)** is a corporate website built with **WordPress and Elementor**, created to showcase the firm's investment opportunities, properties, and services in the real estate and pension fund sectors. The website was designed to be modern, elegant, and informative—featuring high-quality visuals, property mapping, and rich informational sections tailored to institutional investors.
