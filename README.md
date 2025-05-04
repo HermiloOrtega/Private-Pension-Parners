@@ -1,65 +1,95 @@
-# 📦 Private Pension Partners
+# **Private Pension Partners**  
+**Client Project for Epic Inspired**  
+**Version:** V1 – May 3, 2025  
+**Category:** Epic Inspired – Investment & Real Estate  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+---
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+## 🧭 Overview  
+**Private Pension Partners (PPP)** is a corporate website built with **WordPress and Elementor**, created to showcase the firm's investment opportunities, properties, and services in the real estate and pension fund sectors. The website was designed to be modern, elegant, and informative—featuring high-quality visuals, property mapping, and rich informational sections tailored to institutional investors.
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+---
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+## 💡 Idea & Concept  
+The goal of this project was to create a professional, performance-optimized platform for **institutional investors** to understand PPP’s mission, view real estate portfolios, access company data, and connect with their leadership team. A focus was placed on high credibility, brand trust, and easy-to-navigate design.
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+---
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+## ✨ Features & Functionality  
+- **Custom WordPress Theme** with Elementor  
+- **Interactive Investment Portfolio Map**  
+- **Team & Leadership Pages** with individual profiles  
+- **Embedded forms** using HubSpot for lead capture  
+- **Investor Portal Redirect** for secure access  
+- **Pages Include:**
+  - Home / Overview  
+  - Investment Portfolio  
+  - Investment Opportunities  
+  - About Us  
+  - Leadership  
+  - Contact  
+  - Link to Investor Portal  
 
-- **Installation Steps:** 
+---
 
-- **Deployment Environment:** 
+## ⚙️ Tech Stack  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
 
-- **Access:** 
+---
 
-> **Note:** 
+## 🏗 Architecture & Design  
+- Built with **Elementor Pro** for modular component design  
+- SEO-optimized structure with fast-loading components  
+- Secure investor link redirection and CRM integrations  
+- Custom styling to reflect PPP’s brand identity  
+- Mobile-responsive, retina-optimized design  
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+---
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🚀 Installation & Setup  
+- Website hosted and deployed on company-managed infrastructure  
+- DNS, domain, and server setup managed by Epic Inspired  
+- Configured caching, security plugins, and backup routines  
+- HubSpot configured for contact and lead forms  
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+---
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+## 🧑‍💻 My Role & Contributions  
+- 🧱 Full site setup, layout structuring, and plugin integrations  
+- 🎨 Customized map visualization and property filter sections  
+- 🔧 Managed CMS updates, SEO tuning, and server optimizations  
+- 🤝 Collaborated with internal marketing and PPP’s executive team  
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+---
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+## 🧗 Challenges & Learnings  
+- Tailoring UX/UI for a highly professional audience  
+- Integrating investment data dynamically while maintaining performance  
+- Aligning the map feature to match branding and layout fluidity  
 
-## 🔗 Additional Resources
-- **Documentation:** 
+---
 
-- **Related Projects:** 
+## 📈 Future Enhancements  
+- Build a data dashboard for live investment metrics  
+- Implement an authentication-based investor portal  
+- Include downloadable investment briefings  
 
-- **Live Demo Link:** 
+---
+
+## 🤝 Contributing  
+This is a proprietary project and is not open for contribution.
+
+---
+
+## 🪪 License  
+Website © Private Pension Partners / Epic Inspired. All rights reserved.  
+
+---
+
+## 🔗 Additional Resources  
+- [Epic Inspired GitHub Dashboard](../GitHubDashboard.md)  
+- [Related Projects: Private Pension Partners Investments](../PrivatePensionPartnersInvestments.md)
